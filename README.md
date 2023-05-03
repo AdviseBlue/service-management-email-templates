@@ -6,3 +6,7 @@ Please enjoy the following templates to help you get started:
 * [Notification Template](https://adviseblue.github.io/service-management-templates/notification.html)
 * [Approval Template](https://adviseblue.github.io/service-management-templates/approval.html)
 * [Major Incident Template](https://adviseblue.github.io/service-management-templates/major-incident.html)
+
+## Notification Email Template
+
+![image](https://user-images.githubusercontent.com/132511325/236059020-6e3cd166-e673-424f-a4b1-b5995dd1d44b.png)
